@@ -8,6 +8,16 @@ O projeto foi desenvolvido como o trabalho final da material **Fundamentos Arqui
 O projeto foi orientado pelo professor Calebe Micael de Oliveira Conceicao e realizado por mim, Henrique Guimarães. Este foi meu primeiro desenvolvimento de um projeto usando IoT. O vídeo de explicação do projeto pode ser assistido clicando [aqui](https://youtu.be/wjKQrWx7kNQ)
 Para quem quiser mandar sugestões ou enviar alguma mensagem relacionada ao projeto, deixarei meu contato abaixo.
 
-## Contato
+# LARGE-SCALE AIR CONDITIONING CONTROL AND MONITORING SYSTEM
+#### Henrique Guimarães - IFSUL CAMPUS CHARQUEADAS
+## Abstract
+Efficient resource management in educational institutions has become crucial, demanding cost-effective solutions to address budgetary challenges. The project proposes the implementation of a large-scale air conditioning control and monitoring system, integrating IoT technology into the educational context. The choice of IoT aims to collect real-time data, process it in the cloud to centralize information from various institutions, present relevant reports, and remotely control air conditioning units to optimize energy consumption.
+
+## Specifications
+The project was developed as the final assignment for the "Architectural Fundamentals of IoT" course in the 2nd semester of the "Technologist in Internet Systems" program at Ifsul Charqueadas.
+The project was supervised by Professor Calebe Micael de Oliveira Conceicao and carried out by myself, Henrique Guimarães. This marked my first development of a project using IoT. An explanatory video of the project can be watched by clicking here.
+For those who wish to provide suggestions or send any messages related to the project, I will leave my contact information below.
+
+## Contato | Contact
 Email: henriquemachadoguimaraes@gmail.com <br>
 [Linkedin](https://www.linkedin.com/in/henrique-guimaraes-/)
